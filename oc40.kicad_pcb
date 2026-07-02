@@ -3966,7 +3966,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f48da61a-1f62-48d1-8d95-01191ea762a8")
 	)
-	(gr_text "Universal Optocoupler\nOC-01"
+	(gr_text "Universal Optocoupler\nOC-40"
 		(at 170.942 97.536 90)
 		(layer "F.SilkS")
 		(uuid "012a15b9-eba8-47b4-95d3-76f5364bbf2a")

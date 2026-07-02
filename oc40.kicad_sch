@@ -5,8 +5,8 @@
 	(uuid "07e9df91-53fd-4463-8ad8-22bff233101d")
 	(paper "A5")
 	(title_block
-		(title "OC-01 - Universal optocoupler module")
-		(date "2026-07-01")
+		(title "OC-40 - Universal optocoupler module")
+		(date "2026-07-02")
 		(rev "1.0")
 		(company "Model Railroader Club Brno I – KMŽ Brno I – https://kmz-brno.cz/")
 		(comment 1 "Jan Malina")
@@ -2411,52 +2411,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f4")
+			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f5")
 		)
 		(pin "9"
-			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6a8")
+			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6a9")
 		)
 		(pin "7"
-			(uuid "df07a3bf-025c-47b2-9430-cd56ba911920")
+			(uuid "df07a3bf-025c-47b2-9430-cd56ba911921")
 		)
 		(pin "10"
-			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b5")
+			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b6")
 		)
 		(pin "1"
-			(uuid "9073085e-a4be-4585-8c07-68a3dde434ec")
+			(uuid "9073085e-a4be-4585-8c07-68a3dde434ed")
 		)
 		(pin "16"
-			(uuid "d2371071-2181-4506-aa2f-71884e217591")
+			(uuid "d2371071-2181-4506-aa2f-71884e217592")
 		)
 		(pin "5"
-			(uuid "50e5ee27-f724-4c69-a595-bdee527f5379")
+			(uuid "50e5ee27-f724-4c69-a595-bdee527f537a")
 		)
 		(pin "15"
-			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb1")
+			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb2")
 		)
 		(pin "14"
-			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6a7")
+			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6a8")
 		)
 		(pin "11"
-			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d779e")
+			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d779f")
 		)
 		(pin "8"
-			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e1")
+			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e2")
 		)
 		(pin "6"
-			(uuid "b4384662-effe-44df-b15b-c85e2b98d9d9")
+			(uuid "b4384662-effe-44df-b15b-c85e2b98d9da")
 		)
 		(pin "13"
-			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc729")
+			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc72a")
 		)
 		(pin "12"
-			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf90047")
+			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf90048")
 		)
 		(pin "4"
-			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c75")
+			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c76")
 		)
 		(pin "3"
-			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4de")
+			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4df")
 		)
 		(instances
 			(project ""
@@ -3082,52 +3082,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f4")
+			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f6")
 		)
 		(pin "9"
-			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6a8")
+			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6aa")
 		)
 		(pin "7"
-			(uuid "df07a3bf-025c-47b2-9430-cd56ba911920")
+			(uuid "df07a3bf-025c-47b2-9430-cd56ba911922")
 		)
 		(pin "10"
-			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b5")
+			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b7")
 		)
 		(pin "1"
-			(uuid "9073085e-a4be-4585-8c07-68a3dde434ec")
+			(uuid "9073085e-a4be-4585-8c07-68a3dde434ee")
 		)
 		(pin "16"
-			(uuid "d2371071-2181-4506-aa2f-71884e217591")
+			(uuid "d2371071-2181-4506-aa2f-71884e217593")
 		)
 		(pin "5"
-			(uuid "50e5ee27-f724-4c69-a595-bdee527f5379")
+			(uuid "50e5ee27-f724-4c69-a595-bdee527f537b")
 		)
 		(pin "15"
-			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb1")
+			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb3")
 		)
 		(pin "14"
-			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6a7")
+			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6a9")
 		)
 		(pin "11"
-			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d779e")
+			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d77a0")
 		)
 		(pin "8"
-			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e1")
+			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e3")
 		)
 		(pin "6"
-			(uuid "b4384662-effe-44df-b15b-c85e2b98d9d9")
+			(uuid "b4384662-effe-44df-b15b-c85e2b98d9db")
 		)
 		(pin "13"
-			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc729")
+			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc72b")
 		)
 		(pin "12"
-			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf90047")
+			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf90049")
 		)
 		(pin "4"
-			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c75")
+			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c77")
 		)
 		(pin "3"
-			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4de")
+			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4e0")
 		)
 		(instances
 			(project ""
@@ -3417,52 +3417,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f4")
+			(uuid "efa65969-acaf-40a6-9c93-03dfd9db30f7")
 		)
 		(pin "9"
-			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6a8")
+			(uuid "3021b429-dee6-4a82-9f3c-83e4657bb6ab")
 		)
 		(pin "7"
-			(uuid "df07a3bf-025c-47b2-9430-cd56ba911920")
+			(uuid "df07a3bf-025c-47b2-9430-cd56ba911923")
 		)
 		(pin "10"
-			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b5")
+			(uuid "734618e8-5068-4dbc-ab14-19ee10aa01b8")
 		)
 		(pin "1"
-			(uuid "9073085e-a4be-4585-8c07-68a3dde434ec")
+			(uuid "9073085e-a4be-4585-8c07-68a3dde434ef")
 		)
 		(pin "16"
-			(uuid "d2371071-2181-4506-aa2f-71884e217591")
+			(uuid "d2371071-2181-4506-aa2f-71884e217594")
 		)
 		(pin "5"
-			(uuid "50e5ee27-f724-4c69-a595-bdee527f5379")
+			(uuid "50e5ee27-f724-4c69-a595-bdee527f537c")
 		)
 		(pin "15"
-			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb1")
+			(uuid "d9284ce6-3f03-4e8a-b761-88cdf62c5bb4")
 		)
 		(pin "14"
-			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6a7")
+			(uuid "e93d9b00-2d70-4405-8d29-0f3b169cd6aa")
 		)
 		(pin "11"
-			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d779e")
+			(uuid "75d36443-1e26-4dbe-85a4-3de86a1d77a1")
 		)
 		(pin "8"
-			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e1")
+			(uuid "6c1a0c36-e13d-4df2-b71e-57f4f8f8f7e4")
 		)
 		(pin "6"
-			(uuid "b4384662-effe-44df-b15b-c85e2b98d9d9")
+			(uuid "b4384662-effe-44df-b15b-c85e2b98d9dc")
 		)
 		(pin "13"
-			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc729")
+			(uuid "da4ec6f2-e3a8-4a15-abae-8f75eadbc72c")
 		)
 		(pin "12"
-			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf90047")
+			(uuid "4ba7e014-7fc0-40e0-ae52-1fce1cf9004a")
 		)
 		(pin "4"
-			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c75")
+			(uuid "f17f0b6c-6bd8-4f63-b7b1-55841edb3c78")
 		)
 		(pin "3"
-			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4de")
+			(uuid "e0c6301c-5fae-4059-ba94-aece2ee9e4e1")
 		)
 		(instances
 			(project ""
