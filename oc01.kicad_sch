@@ -5,7 +5,7 @@
 	(uuid "07e9df91-53fd-4463-8ad8-22bff233101d")
 	(paper "A5")
 	(title_block
-		(title "OC01 - Universal optocoupler module")
+		(title "OC-01 - Universal optocoupler module")
 		(date "2026-07-01")
 		(rev "1.0")
 		(company "Model Railroader Club Brno I – KMŽ Brno I – https://kmz-brno.cz/")
@@ -3141,15 +3141,15 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x05")
 		(at 163.83 62.23 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b34e0589-f5d0-4e43-8555-302ce48029ee")
 		(property "Reference" "J2"
-			(at 165.862 61.7608 0)
+			(at 165.862 62.6992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3158,7 +3158,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 165.862 63.4422 0)
+			(at 165.862 61.0178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
